@@ -15,7 +15,7 @@ Follow these steps to set up your environment and run the Jupyter Notebook:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/generative_ai_task_cogentlab.git
+   https://github.com/tahawar/gen_ai_cogentlab
 
 2. Navigate to the project directory.
 
