@@ -6,9 +6,7 @@ This repository contains code and instructions for setting up a Python environme
 
 Follow these steps to set up your environment and run the Jupyter Notebook:
 
-### Prerequisites
 
-- [Anaconda](https://www.anaconda.com/products/individual): Make sure you have Anaconda installed on your system.
 
 ### Setup Environment
 
